@@ -4,7 +4,7 @@
 
 <p>NoisImageCreator generates graphic files using VertexAI, available in Google Cloud. Before we run NoisImageCreator on our Google account, we need to create a new project or use an existing one.</p>
 
-<p>Currently, Google allows you to set up a free account, assigning $300 to it. As of today, this is about 1200 PLN to be used for 90 days. To get such an account, it is necessary to confirm with a payment card. However, remember that after 90 days and/or using all the funds, if we do not switch to a paid account, all projects will be deleted. Google, as part of a free trial account, does not charge any fees, even after using up the available funds.</p>
+<p>Currently, Google allows you to set up a free account, assigning $300 for 90 days. To get such an account, it is necessary to confirm with a payment card. However, remember that after 90 days and/or using all the funds, if we do not switch to a paid account, all projects will be deleted. Google, as part of a free trial account, does not charge any fees, even after using up the available funds.</p>
 
 <h2>Creating a new project</h2>
 <p>When we have an account, we create a new project and enter it. We need to activate VertexAI to be able to use it. In the upper left corner, next to the Google Cloud logo, we click on the "hamburger" menu. When the list appears, we select "APIs & Services", then "Enabled APIs & Services". After the page loads, roughly in the middle, there will be a link "+ ENABLE APIS AND SERVICES", we click on it. We will be redirected to a page where in the search field we enter "Vertex AI API", we click on the appropriate service. Then on the new page we press the "enable" button. We wait a moment for the service to be launched in our project.</p>
