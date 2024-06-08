@@ -1,6 +1,6 @@
 <h1>NoisImageCreator</h1>
 
-<p>Read this in Polish :poland:</p>
+<p>Read this in <a href="https://github.com/kgodzisz/noisimagecreator/blob/master/README_PL.md">Polish</a> :poland:</p>
 
 <p>NoisImageCreator generates graphic files using VertexAI, available in Google Cloud. Before we run NoisImageCreator on our Google account, we need to create a new project or use an existing one.</p>
 
