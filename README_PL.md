@@ -1,6 +1,6 @@
 <h1>NoisImageCreator</h1>
 
-<p>Read this in English :uk:</p>
+<p>Read this in <a href="https://github.com/kgodzisz/noisimagecreator/blob/master/README.md">English</a> :uk:</p>
 
 <p>NoisImageCreator generuje pliki graficzne za pomocą VertexAI, udostępnionego w Google Cloud. Nim uruchomimy NoisImageCreator na naszym koncie Google, musimy stworzyć nowy projekt lub skorzystać z już istniejącego.</p>
 
